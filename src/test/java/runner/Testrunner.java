@@ -23,6 +23,8 @@ public class Testrunner {
 
     private static final Logger LOGGER = LogHelper.getLogger(Testrunner.class);
 
+    //prueba
+
     @BeforeClass()
     public static void setUp(){
         LOGGER.log(Level.INFO, "Test execution begins...");
